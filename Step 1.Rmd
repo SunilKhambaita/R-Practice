@@ -1,0 +1,31 @@
+---
+title: A0 solution - Rmarkdown First Lab
+author: |
+  | Last name: Khambaita
+  | First name: Sunil
+  | Student ID: 1000285924
+  | Course section: STA302H1F-L0101
+date: "Sept. 21th, 2016"
+output: pdf_document
+fontsize: 10pt
+---
+# Q1 - Editing and Hello world
+
+## 1.1 Changing the author field and file name.
+
+### (a) Change the `author:` fields to your information on the Rmd document.
+
+### (b) Rename this file to "A0.Rmd", where your name and student iD are changed to your case.
+
+### 1.2.  Hello World!
+
+Here's an R code chunk that prints the text 'Hello world!'.
+
+```{r}
+print("Hello world!")
+```
+
+#### (a) Modify the code chunk below to print your name
+```{r}
+print("Sunil Khambaita")
+```
