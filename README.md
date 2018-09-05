@@ -1,2 +1,2 @@
 # R-Practice
-Learning how to use R
+Playing around with R 
